@@ -1,0 +1,1 @@
+- Azure storage is a IAAS
