@@ -31,3 +31,4 @@ Azure Event Hubs can be used to capture your data in near-real time in an Azure 
 upcoming
 
 - **azure databricks** is an apache spark-based analytics service
+- **Azure Databricks** is a fast, easy, and collaborative Apache Spark-based analytics service. For a big data pipeline, the data (raw or structured) is ingested into Azure through Azure Data Factory in batches, or streamed near real-time using Kafka, Event Hub, or IoT Hub.
