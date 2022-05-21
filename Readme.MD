@@ -65,4 +65,18 @@ upcoming
 - Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments? Each correct answer presents a complete solution. **Ans**  multiple resource groups and multiple subscriptions
 - Azure subscription is just like a container
 - If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least **12 months before**.
+- You are not charged for **unused network interfaces.**
+- You are charged for **public ip addresses**
+- You are not charged for **unused user account and groups**
+- A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a Standard support plan. **Ans** basic
+- https://azure.microsoft.com/en-us/support/plans/
+- In which Azure support plans can you open a new support request? You can open support cases in the following plans: Premier, Professional Direct, Standard, and Developer only. You cannot open support cases in the Basic support plan.
+- You can create an Azure support request from **support.microsoft.com.** - azure portal
+- What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines? **Ans** Uptime (availability zone 99.99% availability set 99.95%)
+- The Basic support plan does not have any technical support for engineers.
+- The Developer support plan has only technical support for engineers via email.
+- The Standard, Professional Direct, and Premier support plans have technical support for engineers via email and phone. 
+- Your company plans to request an architectural review of an Azure environment from Microsoft. Which support plan should you recommend? **Ans** Premier.
+- What-is-required-to-use-Azure-Cost-Management? **ANS** an enterprise aggrement (EA)
+- 
 
