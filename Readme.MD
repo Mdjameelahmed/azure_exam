@@ -34,3 +34,10 @@ upcoming
 - **Azure Databricks** is a fast, easy, and collaborative Apache Spark-based analytics service. For a big data pipeline, the data (raw or structured) is ingested into Azure through Azure Data Factory in batches, or streamed near real-time using Kafka, Event Hub, or IoT Hub.
 - **Azure data factory** - Azure Data Factory is a Microsoft cloud service offered by the Azure platform that allows data integration from many different sources. 
 - **Azure HDinsight** - Azure HDInsight is a managed Apache Hadoop service that lets you run Apache Spark, Apache Hive, Apache Kafka, Apache HBase, and more in the cloud.
+- azure key vault is used to store secrets for - Servers applications
+- If a resource group named RG1 has a delete lock, then to delete this by administrator also at first The delete lock must be removed before an administrator. Because This lock is applicable for everyone
+- **About Resource lock -**
+1) You can set locks that prevent either deletions or modifications. In the portal, these locks are called Delete and Read-only. In the command line, these locks are called CanNotDelete or ReadOnly. In the left navigation panel, the subscription lock feature's name is Resource locks, while the resource group lock feature's name is Locks.
+
+2) CanNotDelete means authorized users can read and modify a resource, but they can't delete it.
+3) ReadOnly means authorized users can read a resource, but they can't delete or update it. Applying this lock is similar to restricting all authorized users to the permissions that the Reader role provides.
