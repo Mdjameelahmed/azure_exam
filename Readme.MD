@@ -42,3 +42,6 @@ upcoming
 2) CanNotDelete means authorized users can read and modify a resource, but they can't delete it.
 3) ReadOnly means authorized users can read a resource, but they can't delete or update it. Applying this lock is similar to restricting all authorized users to the permissions that the Reader role provides.
 - **DDOS Protection**- DDoS Protection enables you to protect your Azure resources from denial of service (DoS) attacks with always-on monitoring and automatic network attack mitigation. There is no upfront commitment and your total cost scales with your cloud deployment.
+- **Azure Traffic Manager** is a DNS-based traffic load balancer. This service allows you to distribute traffic to your public facing applications across the global Azure regions. Traffic Manager also provides your public endpoints with high availability and quick responsiveness.
+- Which two types of customers are eligible to use Azure Government to develop a cloud solution? Each correct answer presents a complete solution. **ANS** - A United States government entity. && A United States government contractor.
+- which azure service should you use **ANS** - Azure AD identity protection
