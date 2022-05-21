@@ -20,4 +20,9 @@ What should you identify? **ANS**  an Azure data center failure
 - **Azure Knowledge center** - The Azure Knowledge Center is a searchable database that contains answers to common support questions, from a community of Azure experts.
 - **Azure portal** - console of azure
 - **Azure marketplace** - Azure Marketplace is an online store that contains thousands of IT software applications and services built by industry-leading technology companies. In Azure Marketplace you can find, try, buy, and deploy the software and services you need to build new solutions and manage your cloud infrastructure.
+- **Azure Event Hubs** - Azure Event Hubs is a big data streaming platform and event ingestion service. It can receive and process millions of events per second. Data sent to an event hub can be transformed and stored by using any real-time analytics provider or batching/storage adapters.
+Azure Event Hubs can be used to ingest, buffer, store, and process your stream in real time to get actionable insights. Event Hubs uses a partitioned consumer model, enabling multiple applications to process the stream concurrently and letting you control the speed of processing.
+Azure Event Hubs can be used to capture your data in near-real time in an Azure Blob storage or Azure Data Lake Storageג€‰for long-term retention or micro-batch processing.
+- Which Azure service should you use to collect events from multiple resources into a centralized repository? **ANS** Azure Event Hubs
+- **Azure monitor** - cloudwatch of azure
 - 
