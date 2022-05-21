@@ -48,3 +48,5 @@ upcoming
 - Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions. **Ans** Azure policies
 - From AZURE MONITOR , you can view which user turned off a specific virtual machine during the last 14 days. **ANS** Azure Activity Log.
 - **Azure Firewall** - control traffic to multiple vm
+- Documents and email messages are protected by - **Azure information Protection**
+- What should you use to evaluate whether your company's Azure environment meets regulatory requirements? **Ans** - The Security Center blade from the Azure portal.
