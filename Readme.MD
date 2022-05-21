@@ -52,3 +52,6 @@ upcoming
 - Used to add automatic watermark by - **Azure information Protection**
 - What should you use to evaluate whether your company's Azure environment meets regulatory requirements? **Ans** - The Security Center blade from the Azure portal.
 - you can track your company's regulatory standards and regulations, such as ISO 27001. by **ans** - Compliance Manager
+- Your company has an Azure environment that contains resources in several regions.
+
+A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create? **Ans** An Azure policy.
