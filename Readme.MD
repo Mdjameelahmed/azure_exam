@@ -59,6 +59,9 @@ upcoming
 - **Azurre AD identity protection** -
 - **Azure AD Previleged Identity management** -
 - **Azure advance threat protection** -
+- **azure site recovery**
+- **diasister recovery**
+- **fault tolerance**
 - The **Microsoft Online Services Privacy Statement** explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.
 - You have several virtual machines in an Azure subscription. You create a new subscription. *** THE VIRTUAL MACHINES CANNOT BE MOVED TO THE NEW SUBSCRIPTION *** **Ans** The virtual machines can be moved to the new subscription.
 - Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office. Which Azure Resource Manager feature should you use before you generate the reports? **Ans** Tags
@@ -88,6 +91,7 @@ upcoming
 - **Azure Site recovery** provides fault tolerance for virtual machines.
 - You need to ensure that when Azure Active Directory (Azure AD) users connect to Azure AD from the Internet by using an anonymous IP address, the users are prompted automatically to change their password. Which Azure service should you use? **ANS** Azure AD Identity Protection.
 - An application connect to retrieve security tokens - so the connect to happen with **Azure AD.** Once it connected/authenticated then it can retrieve.
-- The-Azure-Standard-support-plan-is-the-lowest-cost-option-to-receive-24x7-access-to-support-engineers-by-phone.
+- The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.
+- An Azure service is available to all Azure customers when it is in public preview.
 - 
 
