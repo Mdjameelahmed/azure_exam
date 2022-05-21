@@ -1,1 +1,4 @@
 - Azure storage is a IAAS
+- **Microsoft power BI -** Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Your data may be an Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses.
+- **Azure Data Lake** Azure Data Lake is a cloud platform designed to support big data analytics. It provides unlimited storage for structured, semi-structured or unstructured data. It can be used to store any type of data of any size. It removes the complexities of ingesting and storing all of your data while making it faster to get up and running with batch, streaming and interactive analytics. Azure Data Lake works with existing IT investments for identity, management and security for simplified data management and governance.
+- 
