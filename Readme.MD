@@ -81,4 +81,13 @@ upcoming
 - Your Azure trial account expired last week. You are now unable to *** CREATE ADDITIONAL AZURE ACTIVE DIRECTORY (AZURE AD) USER ACCOUNTS. **ANS** Start an existing vm ( you can create ADDITIONAL AZURE ACTIVE DIRECTORY (AZURE AD) USER ACCOUNTS because it is free )
 - **Azure Subscription** -
 - we cant install azure cli on iphone
+- you need to create a new Azure virtual machine from a tablet that runs the Android operating system. What are three possible solutions? **Ans** Use Bash in Azure Cloud Shell. & Use PowerShell in Azure Cloud Shell. & Use the Azure portal.
+- by using **PowerApps** portal we cant create a new Azure virtual machine from a tablet that runs the Android operating system.
+- **Powerapps** is used to build business app with little or no code.
+- **Azure repo** provides a set of version control tools to manage code.
+- **Azure Site recovery** provides fault tolerance for virtual machines.
+- You need to ensure that when Azure Active Directory (Azure AD) users connect to Azure AD from the Internet by using an anonymous IP address, the users are prompted automatically to change their password. Which Azure service should you use? **ANS** Azure AD Identity Protection.
+- An application connect to retrieve security tokens - so the connect to happen with **Azure AD.** Once it connected/authenticated then it can retrieve.
+- The-Azure-Standard-support-plan-is-the-lowest-cost-option-to-receive-24x7-access-to-support-engineers-by-phone.
+- 
 
