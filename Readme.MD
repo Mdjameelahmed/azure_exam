@@ -80,5 +80,5 @@ upcoming
 - What-is-required-to-use-Azure-Cost-Management? **ANS** an enterprise aggrement (EA)
 - Your Azure trial account expired last week. You are now unable to *** CREATE ADDITIONAL AZURE ACTIVE DIRECTORY (AZURE AD) USER ACCOUNTS. **ANS** Start an existing vm ( you can create ADDITIONAL AZURE ACTIVE DIRECTORY (AZURE AD) USER ACCOUNTS because it is free )
 - **Azure Subscription** -
-- 
+- we cant install azure cli on iphone
 
