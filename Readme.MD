@@ -45,3 +45,4 @@ upcoming
 - **Azure Traffic Manager** is a DNS-based traffic load balancer. This service allows you to distribute traffic to your public facing applications across the global Azure regions. Traffic Manager also provides your public endpoints with high availability and quick responsiveness.
 - Which two types of customers are eligible to use Azure Government to develop a cloud solution? Each correct answer presents a complete solution. **ANS** - A United States government entity. && A United States government contractor.
 - which azure service should you use **ANS** - Azure AD identity protection
+- Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions. **Ans** Azure policies
