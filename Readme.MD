@@ -15,4 +15,9 @@ Data Lake is like a large container which is very similar to real lake and river
 - You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services.
 What should you identify? **ANS**  an Azure data center failure
 - When you need to delegate permissions to several Azure virtual machines simultaneously you must deploy the virtual machines? **ANS** To the same resource group
+- **What is Azure Trust Center** -The Trust Center is an important part of the Microsoft Trusted Cloud Initiative and provides support and resources for the legal and compliance community. The Trust Center provides: In-depth information about security, privacy, compliance offerings, policies, features, and practices across Microsoft cloud products.
+- Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company's regional requirements. What should you use? **ANS**  The Trust Center.
+- **Azure Knowledge center** - The Azure Knowledge Center is a searchable database that contains answers to common support questions, from a community of Azure experts.
+- **Azure portal** - console of azure
+- **Azure marketplace** - Azure Marketplace is an online store that contains thousands of IT software applications and services built by industry-leading technology companies. In Azure Marketplace you can find, try, buy, and deploy the software and services you need to build new solutions and manage your cloud infrastructure.
 - 
