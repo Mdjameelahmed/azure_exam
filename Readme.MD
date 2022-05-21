@@ -93,5 +93,15 @@ upcoming
 - An application connect to retrieve security tokens - so the connect to happen with **Azure AD.** Once it connected/authenticated then it can retrieve.
 - The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.
 - An Azure service is available to all Azure customers when it is in public preview.
-- 
+- Azure Cosmos DB is Microsoft's globally distributed, multi-model database service. With a click of a button, Cosmos DB enables you to elastically and independently scale throughput and storage across any number of Azure regions worldwide.
+- Azure Cosmos DB is a great way to store unstructured and JSON data. Combined with Azure Functions, Cosmos DB makes storing data quick and easy with much less code than required for storing data in a relational database.
+- Tags for Resources are not inherited by default from their Resource Group
+- A resource group can be used to scope access control for administrative actions. By default, permissions set at the resource level are inherited by the resources in the resource group.
+- There are different replication options available with a storage account. The ג€˜minimumג€™ replication option is Locally Redundant Storage (LRS). With LRS, data is replicated synchronously three times within the primary region.
+- Data is not backed up automatically to another Azure Data Center although it can be depending on the replication option configured for the account. Locally
+Redundant Storage (LRS) is the default which maintains three copies of the data in the data center.
+Geo-redundant storage (GRS) has cross-regional replication to protect against regional outages. Data is replicated synchronously three times in the primary region, then replicated asynchronously to the secondary region.
+- The current storage limit is 2 PB for US and Europe, and 500 TB for all other regions (including the UK) with no limit on the number of files.
+- North America is not represented by a single user it has several Azure regions, including West US, Central US, South Central US, East Us, and Canada East.
+
 
