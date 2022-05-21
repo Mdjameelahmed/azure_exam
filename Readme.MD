@@ -41,3 +41,4 @@ upcoming
 
 2) CanNotDelete means authorized users can read and modify a resource, but they can't delete it.
 3) ReadOnly means authorized users can read a resource, but they can't delete or update it. Applying this lock is similar to restricting all authorized users to the permissions that the Reader role provides.
+- **DDOS Protection**- DDoS Protection enables you to protect your Azure resources from denial of service (DoS) attacks with always-on monitoring and automatic network attack mitigation. There is no upfront commitment and your total cost scales with your cloud deployment.
