@@ -46,3 +46,5 @@ upcoming
 - Which two types of customers are eligible to use Azure Government to develop a cloud solution? Each correct answer presents a complete solution. **ANS** - A United States government entity. && A United States government contractor.
 - which azure service should you use **ANS** - Azure AD identity protection
 - Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions. **Ans** Azure policies
+- From AZURE MONITOR , you can view which user turned off a specific virtual machine during the last 14 days. **ANS** Azure Activity Log.
+- **Azure Firewall** - control traffic to multiple vm
