@@ -12,3 +12,6 @@ Data Lake is like a large container which is very similar to real lake and river
 - **diff between normal databse and Data Warehouse** - Normal database just store data and it has faster input. Data warehouse strore data for analytical purpose.
 - **Data Lake vs Data Warehouse** - Data lakes and data warehouses are both widely used for storing big data, but they are not interchangeable terms. A data lake is a vast pool of raw data, the purpose for which is not yet defined. A data warehouse is a repository for structured, filtered data that has already been processed for a specific purpose. 
 - **azure cosmodb-** We can say that cosmodb is a autoscale database. It creates seceondary read databases in another regions and whenever some data come into actual db then it replicate it to all secondary read db. Dont compare it with CDN because cosmo db gives you the live data of main db from secondary db.
+- You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services.
+What should you identify? **ANS**  an Azure data center failure
+- 
