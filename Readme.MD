@@ -54,4 +54,9 @@ upcoming
 - you can track your company's regulatory standards and regulations, such as ISO 27001. by **ans** - Compliance Manager
 - Your company has an Azure environment that contains resources in several regions.
 
-A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create? **Ans** An Azure policy.
+- A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create? **Ans** An Azure policy.
+- **Azure AD connect health** -
+- **Azurre AD identity protection** -
+- **Azure AD Previleged Identity management** -
+- **Azure advance threat protection** -
+
