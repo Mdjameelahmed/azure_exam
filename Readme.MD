@@ -59,4 +59,10 @@ upcoming
 - **Azurre AD identity protection** -
 - **Azure AD Previleged Identity management** -
 - **Azure advance threat protection** -
+- The **Microsoft Online Services Privacy Statement** explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.
+- You have several virtual machines in an Azure subscription. You create a new subscription. *** THE VIRTUAL MACHINES CANNOT BE MOVED TO THE NEW SUBSCRIPTION *** **Ans** The virtual machines can be moved to the new subscription.
+- Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office. Which Azure Resource Manager feature should you use before you generate the reports? **Ans** Tags
+- Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments? Each correct answer presents a complete solution. **Ans**  multiple resource groups and multiple subscriptions
+- Azure subscription is just like a container
+- If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least **12 months before**.
 
