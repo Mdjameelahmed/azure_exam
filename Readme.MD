@@ -78,5 +78,7 @@ upcoming
 - The Standard, Professional Direct, and Premier support plans have technical support for engineers via email and phone. 
 - Your company plans to request an architectural review of an Azure environment from Microsoft. Which support plan should you recommend? **Ans** Premier.
 - What-is-required-to-use-Azure-Cost-Management? **ANS** an enterprise aggrement (EA)
+- Your Azure trial account expired last week. You are now unable to *** CREATE ADDITIONAL AZURE ACTIVE DIRECTORY (AZURE AD) USER ACCOUNTS. **ANS** Start an existing vm ( you can create ADDITIONAL AZURE ACTIVE DIRECTORY (AZURE AD) USER ACCOUNTS because it is free )
+- **Azure Subscription** -
 - 
 
