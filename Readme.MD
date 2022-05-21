@@ -25,4 +25,9 @@ Azure Event Hubs can be used to ingest, buffer, store, and process your stream i
 Azure Event Hubs can be used to capture your data in near-real time in an Azure Blob storage or Azure Data Lake Storageג€‰for long-term retention or micro-batch processing.
 - Which Azure service should you use to collect events from multiple resources into a centralized repository? **ANS** Azure Event Hubs
 - **Azure monitor** - cloudwatch of azure
-- 
+- **Azure Analysis Services** Azure Analysis Services is a fully managed platform as a service (PaaS) that provides enterprise-grade data models in the cloud. Use advanced mashup and modeling features to combine data from multiple data sources, define metrics, and secure your data in a single, trusted tabular semantic data mode
+- **Azure Stream Analytics** Azure Stream Analytics is a fully managed, serverless engine by Microsoft for real-time analytics. It offers the possibility to perform real-time analytics on multiple streams of data from sources such as sensors, web data sources, social media and other applications.
+- **Azure stream analytics vs Azure Analysis Services vs data warehouse** -
+upcoming
+
+- **azure databricks** is an apache spark-based analytics service
