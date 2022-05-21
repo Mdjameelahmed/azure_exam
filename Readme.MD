@@ -32,3 +32,5 @@ upcoming
 
 - **azure databricks** is an apache spark-based analytics service
 - **Azure Databricks** is a fast, easy, and collaborative Apache Spark-based analytics service. For a big data pipeline, the data (raw or structured) is ingested into Azure through Azure Data Factory in batches, or streamed near real-time using Kafka, Event Hub, or IoT Hub.
+- **Azure data factory** - Azure Data Factory is a Microsoft cloud service offered by the Azure platform that allows data integration from many different sources. 
+- **Azure HDinsight** - Azure HDInsight is a managed Apache Hadoop service that lets you run Apache Spark, Apache Hive, Apache Kafka, Apache HBase, and more in the cloud.
