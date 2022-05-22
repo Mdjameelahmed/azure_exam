@@ -117,5 +117,7 @@ Microsoft offers four support plans that can provide you with technical support:
 
 - If you have an enterprise agreement with Microsoft, you can purchase any of these plans except the Developer plan and the bill will be incorporated in the enterprise agreement.
 
-
+#########################################################################################
+### Azure App service plan -
+https://azure.microsoft.com/en-in/pricing/details/app-service/windows/
 
