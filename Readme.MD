@@ -120,4 +120,5 @@ Microsoft offers four support plans that can provide you with technical support:
 #########################################################################################
 ### Azure App service plan -
 https://azure.microsoft.com/en-in/pricing/details/app-service/windows/
-
+#############################################################################
+- Azure free account has a 5 GB blob storage limit and a 5 GB file storage limit.
