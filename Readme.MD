@@ -103,5 +103,19 @@ Redundant Storage (LRS) is the default which maintains three copies of the data 
 Geo-redundant storage (GRS) has cross-regional replication to protect against regional outages. Data is replicated synchronously three times in the primary region, then replicated asynchronously to the secondary region.
 - The current storage limit is 2 PB for US and Europe, and 500 TB for all other regions (including the UK) with no limit on the number of files.
 - North America is not represented by a single user it has several Azure regions, including West US, Central US, South Central US, East Us, and Canada East.
+#####################################################
+### Azure support -
+Microsoft offers four support plans that can provide you with technical support:
+
+- **Basic**: Available to all Microsoft Azure accounts, this is the only free plan and does not have any active support from Azure, the user has access to community forums, self-help documentation, etc, and can raise as many support tickets as required.
+
+- **Developer**: Best suggested for trial and non-production environments, This plan has active support from Azure in the form of access to support engineers via email during standard Business hours. The response time from Microsoft for this plan is within eight hours.
+
+- **Standard**: Best suggested for production workload environments, this plan is an upgrade of the developer plan and provides support in the form of 24×7 access to support engineers via email and phone. The response time from Microsoft for this plan is within one hour.
+
+- **Professional Direct (premier)**: Absolutely necessary for business-critical environments, this plan also offers 24/7 technical support with one-hour response time but also includes operational support, training, and proactive guidance from a ProDirect delivery manager.
+
+- If you have an enterprise agreement with Microsoft, you can purchase any of these plans except the Developer plan and the bill will be incorporated in the enterprise agreement.
+
 
 
